@@ -1,0 +1,32 @@
+Tiny program
+v1.01
+by KingleyStudio
+
+INFO:
+year: 2021
+lang: python, batch code
+
+DOCUMENTATION:
+1. OUT - Displays the text you typed
+2. / - Create variable. Example - /time , /varname
+3. ASSIGN - Assigns a value to a variable. Example - ASSIGN /var VALUE 45
+4. INPUT - Reads user-entered information and stores it in a variable. Example - ASSIGN /var INPUT
+5. EXAM - Assigns the answer to a math expression to a variable. Example - ASSIGN /var EXAM 2+5-6*(10/2)
+6. START - Runs the embedded program. The list of programs is given below
+7. NEWFOLDER - Create a new folder. Example - NEWFOLDER C:/Users/%username%/%foldername%
+8. READFILE - Reads the contents of a file. Example - READFILE C:/Users/%username%/%filename.*%
+9. CLR - Clears the screen
+10. EXECUTE - Executes windows command
+
+LIST OF PROGRAMS:
+1. calc - Calculator
+2. clock - Clock
+
+MATH OPERATORS:
++ : Addition
+- : Subtraction
+* : Multiplication
+/ : Division
+% : Modulo division
+// : Integer division
+** : Exponentiation
